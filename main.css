@@ -1,0 +1,10 @@
+#chars {
+	word-wrap: break-word;
+}
+#chars .char {
+	float: left;
+	width: 4em;
+}
+#chars .hex {
+	font-family: monospace;
+}
